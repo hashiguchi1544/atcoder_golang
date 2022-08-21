@@ -1,8 +1,8 @@
-package main
+package atcoder
 
 import "fmt"
 
-func main() {
+func abc052a() {
 	var lenA, widB, lenC, widD int
 	fmt.Scan(&lenA, &widB, &lenC, &widD)
 
