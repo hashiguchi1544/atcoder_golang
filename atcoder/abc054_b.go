@@ -1,8 +1,8 @@
-package main
+package atcoder
 
 import "fmt"
 
-func main() {
+func abc054a() {
 	var aliceCard, bobCard int
 	fmt.Scan(&aliceCard, &bobCard)
 
